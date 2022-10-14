@@ -6,12 +6,6 @@
 </p>
 
 ---
-##  Primeiros Passos:
-
-#### 🔹 Marque esse projeto com uma ⭐
-#### 🔹 Siga as orientações do que temos neste repositório 📚
-#### 🔹 Visite a página do desafio clicando aqui! [Link do Challenge](https://www.alura.com.br/challenges/oracle-one-java) 📃 
-</br>
 
 ## 🖥️ Tecnologias Utilizadas:
 
@@ -22,27 +16,6 @@
 - Plugin WindowBuilder </br>
 
 ---
-## ⚠️ Importante! ⚠️
-
-☕ Use o Java na versão 8 ou superior para ter compatibilidade. 
-</br></br>
-📝 Recomendamos utilizar o editor Eclipse para compatibilidade da interface gráfica. </br></br>
-🎨 A interface contém dois importantes métodos:
-- setResizable(false): determina o tamanho da janela, e através do parâmetro <strong>false</strong>, a tela não poderá ser maximizada;
-- setLocationRelativeTo(null): determina a localização da janela, e através do parâmetro <strong>null</strong> ele a mantém centralizada na tela.
-
-#### Para este desafio, concentre-se na parte lógica e de conexão com o Banco de Dados, após concluir o desafio, sinta-se a vontade para incluir novas funcionalidades e modificar a interface gráfica. 
-
-
----
-
-
-## 🔍 Analisando nosso repositório!
-
-### Este é o repositório base do nosso projeto, nele você encontrará:
-#### 🔹 src/views: pasta com toda a interface gráfica das telas necessárias para desenvolver o programa;
-#### 🔹 src/imagens: pasta com imagens que você pode utilizar em seu projeto. Sinta-se a vontade para utilizar outras, caso deseje.
-</br>
 
 ## ⬇️ Download
 
